@@ -3,14 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Modello 3D – Test</title>
+    <title>Modello 3D – Sketchfab</title>
 
     <style>
       body {
         margin: 0;
-        background-color: #111;
-        color: #f0f0f0;
-        font-family: "Segoe UI", Roboto, sans-serif;
+        background-color: #0d0d0d;
+        color: #f5f5f5;
+        font-family: "Segoe UI", Roboto, Helvetica, sans-serif;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -20,7 +20,7 @@
 
       header {
         text-align: center;
-        padding: 30px 10px 10px;
+        padding: 40px 10px 20px;
       }
 
       .logo {
@@ -70,30 +70,20 @@
     <header>
       <div class="logo">3D Model Viewer</div>
       <p class="description">
-        Un semplice viewer 3D in tema scuro, realizzato con Sketchfab e
-        pubblicato su GitHub Pages.
+        Un viewer 3D in tema scuro, realizzato con Sketchfab e pubblicato su GitHub Pages.
       </p>
     </header>
 
-    <!-- ✅ Modello Sketchfab -->
+    <!-- ✅ Modello Sketchfab aggiornato -->
     <iframe
-      title="Modello 3D - Test"
+      title="Modello 3D - Sketchfab"
       allowfullscreen
       mozallowfullscreen="true"
       webkitallowfullscreen="true"
-      src="https://sketchfab.com/models/c64d0368a45e4bc5932b02429a29fb33/embed">
+      src="https://sketchfab.com/models/pD8Ht/embed">
     </iframe>
 
     <footer>
       <p>
         Visualizza il modello su
-        <a
-          href="https://sketchfab.com/3d-models/test-c64d0368a45e4bc5932b02429a29fb33"
-          target="_blank"
-          >Sketchfab</a
-        >
-        • Realizzato in Blender
-      </p>
-    </footer>
-  </body>
-</html>
+        <a href="https://skfb.ly/pD8Ht" target="_blank">Sketchfab</a>
